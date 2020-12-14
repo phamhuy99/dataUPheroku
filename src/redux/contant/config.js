@@ -1,0 +1,1 @@
+export const apiLink='https://5fbf124b5923c90016e6b7fd.mockapi.io/';
